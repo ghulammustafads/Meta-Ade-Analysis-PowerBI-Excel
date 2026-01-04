@@ -1,6 +1,26 @@
-# Meta Ad Performance Analysis 🚀
+# Meta Ad Performance Analysis 
 
-![Power BI](https://img.shields.io/badge/Tool-Power%20BI-blue) ![Excel](https://img.shields.io/badge/Tool-Excel-green) ![Status](https://img.shields.io/badge/Status-Completed-success)
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-blue?style=for-the-badge&logo=microsoftpowerbi) 
+![Excel](https://img.shields.io/badge/Tool-Excel-green?style=for-the-badge&logo=microsoftexcel) 
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge) 
+![Domain](https://img.shields.io/badge/Domain-Digital%20Marketing-lightblue?style=for-the-badge) 
+![Data Size](https://img.shields.io/badge/Data-Campaign%20Analytics-orange?style=for-the-badge) 
+![Portfolio Project](https://img.shields.io/badge/Portfolio-Project-purple?style=for-the-badge) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile) 
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
+
+---
+
+## 📑 Table of Contents
+
+1. [Project Background](#1-project-background)  
+2. [Data Set Overview & Model](#2-data-set-overview--model)  
+3. [Executive Summary](#3-executive-summary)  
+4. [Key Insights](#4-key-insights)  
+5. [Recommendations & Impact](#5-recommendations--impact)  
+6. [Tools Used](#6-tools-used)  
+7. [Author](#7-author)  
+8. [Contact Information](#8-contact-information)  
 
 ---
 
@@ -52,12 +72,9 @@ By looking closely at the campaign data, we can identify **who engaged with the 
 
 <img width="661" height="379" alt="img1" src="https://github.com/user-attachments/assets/e5105fdb-429d-4747-9b2c-82f881e9801f" />
 
-
-
-**Imaage-2**
+**Image-2**
 
 <img width="661" height="377" alt="img2" src="https://github.com/user-attachments/assets/4ab774dd-e92f-4f9c-ae9b-32870681a3e8" />
-
 
 ---
 
@@ -92,13 +109,30 @@ Reduces wasted ad spend on low-performing segments and improves **click-to-purch
 ---
 
 ## 6. Tools Used
+<details>
+<summary>Click to expand: Tools Used</summary>
+
 | Tool       | Purpose |
 |------------|--------|
 | **Power BI** | Data modeling, DAX calculations, interactive dashboards |
 | **Excel** | Initial data inspection, summaries |
+
+</details>
 
 ---
 
 ## 7. Author 
  **Ghulam Mustafa**
 
+---
+
+ ## 📞 Contact Information
+
+If you have any questions, suggestions, or would like to connect regarding this project, feel free to reach out:
+
+- **Name:** Ghulam Mustafa  
+- **Email:** ghulammustafa.ds.ai@gmail.com  
+- **LinkedIn:** [linkedin.com/in/yourprofile](www.linkedin.com/in/ghulam-mustafa-data-analyst)  
+- **GitHub:** [github.com/yourusername](https://github.com/ghulammustafadsai-web)  
+
+I am always open to collaboration, feedback, or discussing data analytics and lending projects.  
