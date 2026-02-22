@@ -46,8 +46,7 @@ The campaign data is structured in a **relational database**, tracking user inte
 | **Users** | Contains demographic profiles | `user_gender`, `age_group`, `country`, `user_interests` |
 | **Ad Events** | Central fact table recording interactions | `event_type` (Impression, Click, Purchase), `timestamp`, `time_of_day` |
 
-### Data Model Overview
-<img width="499" height="293" alt="Data_model_screenshot" src="https://github.com/user-attachments/assets/1328a87d-9514-4b25-95ba-abafc57406b0" />
+
 
 </details>
 
@@ -68,9 +67,7 @@ By looking closely at the campaign data, we can identify **who engaged with the 
 - **Total Purchases:** `1.3K`  
 
 ### Dashboard Overview
-**Image-1**
 
-<img width="661" height="379" alt="img1" src="https://github.com/user-attachments/assets/e5105fdb-429d-4747-9b2c-82f881e9801f" />
 
 **Image-2**
 
