@@ -123,7 +123,7 @@ Reduces wasted ad spend on low-performing segments and improves **click-to-purch
 
 ---
 
- ## 📞 Contact Information
+ ## 📞 Contact & Links
 
 If you have any questions, suggestions, or would like to connect regarding this project, feel free to reach out:
 
@@ -132,5 +132,6 @@ If you have any questions, suggestions, or would like to connect regarding this 
 - **LinkedIn:** www.linkedin.com/in/ghulam-mustafa-data-analyst  
 - **Video Overview:** https://youtu.be/I3DO54DZcqo
 - **Portfolio Website:** https://mustafads.me/
+- **Project Case Study:** https://hot-girdle-a16.notion.site/Meta-Ade-Performance-Analysis-2e57b9ad8e3380d2a26dfeaf577946c1
 
 I am always open to collaboration, feedback, or discussing data analytics and lending projects.  
