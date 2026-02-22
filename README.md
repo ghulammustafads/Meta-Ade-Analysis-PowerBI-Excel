@@ -118,6 +118,7 @@ Reduces wasted ad spend on low-performing segments and improves **click-to-purch
 
 ## 7. Author 
  **Ghulam Mustafa**
+ **Google Certified Data Analyst**
 
 ---
 
