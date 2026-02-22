@@ -69,8 +69,6 @@ By looking closely at the campaign data, we can identify **who engaged with the 
 ### Dashboard Overview
 
 
-**Image-2**
-
 <img width="661" height="377" alt="img2" src="https://github.com/user-attachments/assets/4ab774dd-e92f-4f9c-ae9b-32870681a3e8" />
 
 ---
